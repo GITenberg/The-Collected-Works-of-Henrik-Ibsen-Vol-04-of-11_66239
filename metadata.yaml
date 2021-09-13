@@ -1,0 +1,40 @@
+_repo: The-Collected-Works-of-Henrik-Ibsen-Vol-04-of-11_66239
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Herford, C. H. (Charles Harold)
+    alias: Herford, Charles Harold
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '5599'
+    url: http://www.gutenberg.org/2009/agents/5599
+    wikipedia: https://en.wikipedia.org/wiki/C._H._Herford
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Henrik_Ibsen
+    - https://no.wikipedia.org/wiki/Henrik_Ibsen
+  editor:
+    agent_name: Archer, William
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '3729'
+    url: http://www.gutenberg.org/2009/agents/3729
+    wikipedia: https://en.wikipedia.org/wiki/William_Archer_(critic)
+description: ''
+gutenberg_issued: '2021-09-08'
+identifiers:
+  gutenberg: '66239'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Collected Works of Henrik Ibsen Vol. 04 (of 11)
+url: http://www.gutenberg.org/ebooks/66239
